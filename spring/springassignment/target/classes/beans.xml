@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="
+           http://www.springframework.org/schema/beans 
+           http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <bean id="book" class="com.springassignment.Book" scope="prototype">
+        <constructor-arg value="Story book"/>
+    </bean>
+
+    <bean id="printer" class="com.springassignment.Printer">
+        <property name="format" value="INFO"/>
+    </bean>
+
+    <bean id="library" class="com.springassignment.Library">
+        <property name="book" ref="book"/>
+        <property name="printer" ref="printer"/>
+    </bean>
+
+</beans>

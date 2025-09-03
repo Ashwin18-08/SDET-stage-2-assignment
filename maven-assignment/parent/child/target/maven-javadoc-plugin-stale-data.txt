@@ -1,0 +1,44 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'c:/Users/2438043/OneDrive - Cognizant/Desktop/sdet-assignment/maven-assignment/parent/child/src/main/java;c:/Users/2438043/OneDrive - Cognizant/Desktop/sdet-assignment/maven-assignment/parent/child/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'c:/Users/2438043/OneDrive - Cognizant/Desktop/sdet-assignment/maven-assignment/parent/child/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'child 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'child 1.0-SNAPSHOT API'
+com.mavenassignment
+c:\Users\2438043\OneDrive - Cognizant\Desktop\sdet-assignment\maven-assignment\parent\child\src\main\java = 1756892197413
+c:\Users\2438043\OneDrive - Cognizant\Desktop\sdet-assignment\maven-assignment\parent\child\target\generated-sources\annotations = 1756894456262
+c:\Users\2438043\OneDrive - Cognizant\Desktop\sdet-assignment\maven-assignment\parent\child\target\apidocs\allclasses-index.html = 1756894461097
+c:\Users\2438043\OneDrive - Cognizant\Desktop\sdet-assignment\maven-assignment\parent\child\target\apidocs\allpackages-index.html = 1756894461109
+c:\Users\2438043\OneDrive - Cognizant\Desktop\sdet-assignment\maven-assignment\parent\child\target\apidocs\copy.svg = 1756894461227
+c:\Users\2438043\OneDrive - Cognizant\Desktop\sdet-assignment\maven-assignment\parent\child\target\apidocs\element-list = 1756894460977
+c:\Users\2438043\OneDrive - Cognizant\Desktop\sdet-assignment\maven-assignment\parent\child\target\apidocs\help-doc.html = 1756894461205
+c:\Users\2438043\OneDrive - Cognizant\Desktop\sdet-assignment\maven-assignment\parent\child\target\apidocs\index-all.html = 1756894461168
+c:\Users\2438043\OneDrive - Cognizant\Desktop\sdet-assignment\maven-assignment\parent\child\target\apidocs\index.html = 1756894461177
+c:\Users\2438043\OneDrive - Cognizant\Desktop\sdet-assignment\maven-assignment\parent\child\target\apidocs\link.svg = 1756894461244
+c:\Users\2438043\OneDrive - Cognizant\Desktop\sdet-assignment\maven-assignment\parent\child\target\apidocs\member-search-index.js = 1756894461146
+c:\Users\2438043\OneDrive - Cognizant\Desktop\sdet-assignment\maven-assignment\parent\child\target\apidocs\module-search-index.js = 1756894461121
+c:\Users\2438043\OneDrive - Cognizant\Desktop\sdet-assignment\maven-assignment\parent\child\target\apidocs\overview-tree.html = 1756894461073
+c:\Users\2438043\OneDrive - Cognizant\Desktop\sdet-assignment\maven-assignment\parent\child\target\apidocs\package-search-index.js = 1756894461128
+c:\Users\2438043\OneDrive - Cognizant\Desktop\sdet-assignment\maven-assignment\parent\child\target\apidocs\script.js = 1756894461221
+c:\Users\2438043\OneDrive - Cognizant\Desktop\sdet-assignment\maven-assignment\parent\child\target\apidocs\search-page.js = 1756894461265
+c:\Users\2438043\OneDrive - Cognizant\Desktop\sdet-assignment\maven-assignment\parent\child\target\apidocs\search.html = 1756894461177
+c:\Users\2438043\OneDrive - Cognizant\Desktop\sdet-assignment\maven-assignment\parent\child\target\apidocs\search.js = 1756894461256
+c:\Users\2438043\OneDrive - Cognizant\Desktop\sdet-assignment\maven-assignment\parent\child\target\apidocs\stylesheet.css = 1756894461214
+c:\Users\2438043\OneDrive - Cognizant\Desktop\sdet-assignment\maven-assignment\parent\child\target\apidocs\tag-search-index.js = 1756894461155
+c:\Users\2438043\OneDrive - Cognizant\Desktop\sdet-assignment\maven-assignment\parent\child\target\apidocs\type-search-index.js = 1756894461129
