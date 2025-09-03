@@ -1,4 +1,4 @@
-# 🛠️ Java Development Assignments
+# 🛠️ Assignments
 
 This repository contains two structured Java-based assignments demonstrating **Maven** and **Spring Framework**.
 
